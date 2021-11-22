@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Del Campo Fresco</string>
+    <string name="menu_home">Mercado</string>
+    <string name="menu_vegetables">@string/title_activity_vegetables</string>
+    <string name="menu_fruits">@string/title_activity_fruits</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title"></string>
+    <string name="nav_header_subtitle">\@delcampofresco.org</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <!-- sign in -->
+    <string name="signin">Iniciar Sesión</string>
+    <string name="register">Registrarse</string>
+    <string name="checkCredentials">Credenciales Incorrectas</string>
+
+    <!-- register account -->
+    <string name="name">Nombres</string>
+    <string name="lastname">Apellidos</string>
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="telephone">Teléfono</string>
+    <string name="acceptPolicy">Aceptar Política de Privacidad</string>
+    <string name="openAccount">Crear Cuenta</string>
+    <string name="checkPolicy">Por favor aceptar la Política de Privacidad</string>
+    <string name="userExists">El usuario ya existe!</string>
+    <string name="enInvalid"></string>
+    <string name="esInvalid">\u0020Inválido(s)</string>
+    <string name="createProfile">Perfíl Creado</string>
+
+    <!-- policy -->
+    <string name="policyTitle">POLÍTICA DE PRIVACIDAD</string>
+    <string name="policyContent">
+        Al utilizar nuestros servicios, nos confías tus datos. Entendemos que es una gran responsabilidad y nos esforzamos al máximo para proteger tu información y permitirte controlarla.\n\n
+        El objetivo de esta Política de Privacidad es informarte sobre qué datos recogemos, por qué los recogemos y cómo puedes actualizarlos, gestionarlos, exportarlos y eliminarlos.\n\n
+        Recogemos información para proporcionar los mejores servicios a todos nuestros usuarios: desde determinar información básica, como el idioma que hablas, hasta datos más complejos, como los anuncios que te resultarán más útiles, las personas que más te interesan online o los vídeos de YouTube que te pueden gustar. El tipo de información que recoge Google y cómo se utiliza esa información depende del uso que hagas de nuestros servicios y de cómo administres los controles de privacidad.\n\n
+        Si no has iniciado sesión en una cuenta de Google, almacenamos la información que recogemos con identificadores únicos vinculados al navegador, la aplicación o el dispositivo que utilices. Esto nos permite, por ejemplo, mantener tus preferencias de idioma en todas las sesiones de navegación.\n\n
+        Si has iniciado sesión, también recogemos información que almacenamos en tu cuenta de Google y que tratamos como información personal.
+    </string>
+    <string name="confirmPolicy">Aceptar</string>
+
+    <!-- menu -->
+    <string name="menuSearch">Buscar</string>
+    <string name="menuSignOut">Cerrar Sesión</string>
+
+    <!-- market -->
+    <string name="welcome">Bienvenid@</string>
+    <string name="productTitle">Producto</string>
+    <string name="origin">Origen</string>
+    <string name="nutrition">Nutrición</string>
+    <string name="questions">Preguntas</string>
+    <string name="addItem">Adicionar elementos a Categoría</string>
+
+    <!-- frutas -->
+    <string name="title_activity_fruits">Frutas</string>
+    <string name="fresa">Fresa</string>
+    <string name="mandarina">Mandarina</string>
+    <string name="guayaba">Guayaba</string>
+    <string name="naranja">Naranja</string>
+    <string name="manzana">Manzana</string>
+    <string name="arandano">Arándano</string>
+    <string name="banano">Banano</string>
+    <string name="papaya">Papaya</string>
+
+    <!-- verduras -->
+    <string name="title_activity_vegetables">Verduras</string>
+    <string name="aguacate">Aguacate</string>
+    <string name="tomate">Tomate</string>
+    <string name="pimenton">Pimenton</string>
+    <string name="lechuga">Lechuga</string>
+    <string name="limon">Limón</string>
+    <string name="brocoli">Brocoli</string>
+
+    <!-- eliminar -->
+    <string name="large_text">Material</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

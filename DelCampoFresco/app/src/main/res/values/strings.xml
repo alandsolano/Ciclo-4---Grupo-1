@@ -1,0 +1,164 @@
+<resources>
+    <string name="app_name">Del Campo Fresco</string>
+    <string name="menu_home">Marketplace</string>
+    <string name="menu_vegetables">@string/title_activity_vegetables</string>
+    <string name="menu_fruits">@string/title_activity_fruits</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title"></string>
+    <string name="nav_header_subtitle">\@delcampofresco.org</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <!-- sign in -->
+    <string name="signin">Log In</string>
+    <string name="register">Sign In</string>
+    <string name="checkCredentials">Invalid Credentials</string>
+
+    <!-- register account -->
+    <string name="name">Name</string>
+    <string name="lastname">Lastname</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="telephone">Telephone</string>
+    <string name="acceptPolicy">Accept Privacy Policy</string>
+    <string name="openAccount">Create Account</string>
+    <string name="checkPolicy">Please Accept Privacy Policy</string>
+    <string name="userExists">User Already Exists!</string>
+    <string name="enInvalid">Invalid\u0020</string>
+    <string name="esInvalid"></string>
+    <string name="createProfile">Profile Created</string>
+
+    <!-- policy -->
+    <string name="policyTitle">Privacy Policy</string>
+    <string name="policyContent">
+        By using our services, you entrust us with your data. We understand that it is a great responsibility and we do our best to protect your information and allow you to control it.\n\n
+        The purpose of this Privacy Policy is to inform you about what data we collect, why we collect it and how you can update, manage, export and delete it.\n\n
+        We collect information to provide the best services to all our users: from determining basic information, such as the language you speak, to more complex data, such as the ads that will be most useful to you, the people that interest you most online or the YouTube videos that you may like them. The type of information Google collects and how that information is used depends on how you use our services and how you manage privacy controls.\n\n
+        If you are not logged into a Google account, we store the information we collect with unique identifiers linked to the browser, application or device you use. This allows us, for example, to keep your language preferences in all browsing sessions.\n\n
+        If you are logged in, we also collect information that we store in your Google account and that we treat as personal information.
+    </string>
+    <string name="confirmPolicy">Accept</string>
+
+    <!-- menu -->
+    <string name="menuSearch">Search</string>
+    <string name="menuSignOut">Sign Out</string>
+
+    <!-- market -->
+    <string name="welcome">Welcome</string>
+    <string name="productTitle">Product</string>
+    <string name="origin">Origin</string>
+    <string name="nutrition">Nutrition</string>
+    <string name="questions">Questions</string>
+    <string name="addItem">Add Items to Category</string>
+
+
+    <!-- frutas -->
+    <string name="title_activity_fruits">Fruits</string>
+
+    <string name="fresa">Strawberry</string>
+    <string name="fresaOrigin" translatable="false">Cundinamarca, Antioquía, Norte de Santander, Boyacá, Cauca y Valle de Cauca</string>
+    <string name="fresaNutrition" translatable="false">Previenen las enfermedades cardiovasculares, son hidratantes, mejoran la salud de la piel, protegen la salud visual.</string>
+    <string name="fresaQuestions" translatable="false">Se puede congelar? Aunque no es recomendable refrigerar la fruta en general, sí es posible hacerlo con las fresas. Hay que tener en cuenta que congelar no esteriliza las fresas, sino que las preserva.
+\n\nLas fresas orgánicas son más saludables que las convencionales? La mayoría de los estudios realizados a la fecha muestran que las fresas orgánicas y las convencionales son igualmente nutritivas.
+\n\nLas fresas pequeñas saben mejor que las grandes? El sabor está influenciado por las condiciones de crecimiento como el clima, la etapa de madurez cuando se cosecha y la variedad. El tamaño no es un factor para determinar el sabor</string>
+
+    <string name="mandarina">Tangerine</string>
+    <string name="mandarinaOrigin" translatable="false">Santander, Valle y Antioquia</string>
+    <string name="mandarinaNutrition" translatable="false">Aliada de las defensas frente a las gripes, combate la anemia, refuerza el sistema cardiovascular, elimina el ácido úrico</string>
+    <string name="mandarinaQuestions" translatable="false">Cómo debemos consumir la mandarina? Aparte de los gajos, se pueden aprovechar la cáscara, el jugo e incluso las hojas en infusión.
+\n\nDe donde proviene? De las zonas tropicales de Asia. Se cree que su nombre se debe al color de los trajes que utilizaban los mandarines, gobernantes de la antigua China.</string>
+
+    <string name="guayaba">Guaba</string>
+    <string name="guayabaOrigin" translatable="false">Santander, Boyacá, Valle del Cauca, Meta y Tolima</string>
+    <string name="guayabaNutrition" translatable="false">Es una fruta con gran valor nutritivo y propiedades medicinales beneficiosas para la salud, debido a que es rica en vitamina C, A y B.</string>
+    <string name="guayabaQuestions" translatable="false">Donde se origina el gusano de la guayaba? En el cultivo de la guayaba, la mosca de la fruta produce esos indeseables gusanitos que se consiguen dentro de la guayaba.
+\n\nQue uso medicinal tiene la guayaba? Posee propiedades astringentes, antiespasmódicas y antimicrobianas, que ayudan a disminuir tanto la diarrea (aguda o crónica), el dolor abdominal y los posibles microorganismos causantes de la misma.</string>
+
+    <string name="naranja">Orange</string>
+    <string name="naranjaOrigin" translatable="false">Meta, Valle del Cauca, Quindío, Caldas, Risaralda, Antioquia y Magdalena</string>
+    <string name="naranjaNutrition" translatable="false">Aconsejadas para la prevención de la diabetes. estimula la producción de glóbulos blancos y contribuye a reforzar el sistema inmunológico. Tiene propiedades antiinflamatorias</string>
+    <string name="naranjaQuestions" translatable="false">Cuantas naranjas hay en un arbol? El naranjo medio sano y maduro produce 200-350 naranjas.
+\n\nCuánto tiempo pueden durar las naranjas? Pueden conservarse entre 15 a 25 días al estar recién cogidas.
+\n\nQué diferencias hay entre las naranjas de zumo y mesa? Ninguna en procedencia y calidad ya que provienen de los mismos árboles. El proceso es seleccionarlas en función de su tamaño y piel. Las de mejor presencia como ""mesa"" y el resto ""zumo"".</string>
+
+    <string name="manzana">Apple</string>
+    <string name="manzanaOrigin" translatable="false">Boyacá, Antioquio y Santander</string>
+    <string name="manzanaNutrition" translatable="false">Ayuda a mantener los niveles normales de colesterol en la sangre, regula el intestino, protege el corazón, mejora los dientes.</string>
+    <string name="manzanaQuestions" translatable="false">Cuánto tiempo toma el poder recolectar manzanas de los árboles? puede cosechar sus primeros frutos de 1 a 2 años después de plantar la plantita.
+\n\nCuántas manzanas son producidas en un manzano?Se pueden recolectar más de 800.
+\n\nEn que clima se produce la manzana? La mayoría de las variedades comerciales de manzano prosperan en clima frío y húmedo</string>
+
+    <string name="arandano">Blueberry</string>
+    <string name="arandanoOrigin" translatable="false">Cundinamarca, Boyacá y Antioquia.</string>
+    <string name="arandanoNutrition" translatable="false">Revitalizan la memoria, previenen y ayudan a frenar las infecciones de orina, mejorar la salud ocular</string>
+    <string name="arandanoQuestions" translatable="false">Se pueden congelar los arándanos? Sí, se pueden congelar perfectamente y aguantan hasta 1 año congelados sin alterar prácticamente sus propiedades beneficiosas para nuestra salud.
+\n\nCuántos días se conservan en fresco los arándanos?Tienen un periodo de conservación en fresco de entre 2 a 3 semanas conservándolos en la nevera.
+\n\nQué es la pruina? Es una capa de cera natural creada por la planta para recubrir los frutos de arándano y así protegerlos contra enfermedades y agentes externos, por ello es preferible no lavarlos antes de conservarlos en nevera, sino justo antes de consumirlos, si esto fuera necesario.</string>
+
+    <string name="banano">Banana</string>
+    <string name="bananoOrigin" translatable="false">Antioquia, Magdalena, Guajira</string>
+    <string name="bananoNutrition" translatable="false">Protegen el corazón gracias a su alto contenido en potasio, un electrolito fundamental para el buen funcionamiento de este órgano. Combate el estreñimiento, ayuda a prevenir el cáncer.</string>
+    <string name="bananoQuestions" translatable="false">Cuantas clases de bananos existen? existen más de 1000 variedades de banano. La más popular es la ‘Cavendish banana’ conocida también como plátano o banano común.
+\n\nQue minerales tiene el banano? se encuentran el potasio, magnesio, hierro, selenio, zinc y calcio.
+\n\nLos bananos contienen agua? Aunque no parecen demasiado húmedas al comerlas, en realidad están compuestas por agua en un 75%</string>
+
+    <string name="papaya">Papaya</string>
+    <string name="papayaOrigin" translatable="false">Costa Atlantica, Meta, Santander, Tolima</string>
+    <string name="papayaNutrition" translatable="false">Un menor riesgo de enfermedades cardíacas, diabetes, cáncer; ayudar en la digestión, mejorar el control de la glucosa en sangre en personas con diabetes, reducir la presión arterial y mejorar la cicatrización de heridas.</string>
+    <string name="papayaQuestions" translatable="false">Qué vitaminas tiene la papaya? alto contenido en Vitamina C y Vitamina A, calcio, magnesio y potasio.
+\n\nQuién no debe comer papaya? Sus altas concentraciones de vitamina C, también pueden ser contraproducentes para la salud para las personas que sufren de cálculos renales.
+\n\nLas semillas se pueden consumir? Sirven para preparar una infusión o un batido. “Pueden tener beneficios extras, ya que son ricas en carpaine, un alcaloide que ayuda a combatir infecciones y parásitos intestinales</string>
+
+
+    <!-- verduras -->
+
+    <string name="title_activity_vegetables">Vegetables</string>
+
+    <string name="aguacate">Avocado</string>
+    <string name="aguacateOrigin" translatable="false">Antioquia y Eje Cafetero</string>
+    <string name="aguacateNutrition" translatable="false">Fuente de energia y nutrientes, es rico en fibra, bajo en colesterol y triglicéridos, alto contenido de potasio</string>
+    <string name="aguacateQuestions" translatable="false">Es fruta o verdura? : Es una fruta. Su árbol, llamado aguacatero, es de la familia del laurel.
+\n\nCuando madura? Empiezan a madurar por el extremo ancho una semana después de su cosecha y desarrollan mejor calidad si la temperatura se mantiene entre 15º y 24º. Es importante saber que el aguacate nunca madura en el árbol
+\n\nSe pueden conservar en la nevera? Si se meten estando inmaduros se estropean; si ya están maduros, pueden aguantar refrigerados unos días.</string>
+
+    <string name="tomate">Tomato</string>
+    <string name="tomateOrigin" translatable="false">Boyacá, Caldas, Cundinamarca, Santander</string>
+    <string name="tomateNutrition" translatable="false">Su alto contenido en hierro hace que ayude a evitar la anemia ferropénica o anemia. Al tener mucha vitamina A o niacina,  previene enfermedades en los ojos, fortalece el sistema inmunitario y tiene propiedades anticancerosas</string>
+    <string name="tomateQuestions" translatable="false">Se deben pelar para consumir? :son muchos los beneficios presentes en la piel, el licopeno es una sustancia presente en la cáscara del tomate, y es bueno para proteger el corazón y prevenir el cáncer. Se le debe realizar una correcta limpieza antes de consumir.
+\n\nCómo se puede conservar? Almacene los tomates maduros en un recipiente adecuado para la refrigeración de verduras. Estos no necesitan ser embolsados. Tomates maduros suelen mantenerse de 5 a 7 días en el refrigerador.
+\n\nComo se conservan frescos por mas tiempo? es fundamental que este no pierda agua.  Se recomienda conservarlos siempre con su parte superior  mirando hacia debajo y pegada al recipiente de vidrio o la cesta en la que debe ser conservado.</string>
+
+    <string name="pimenton">Pepper</string>
+    <string name="pimentonOrigin" translatable="false">Antioquia, Santander, Norte de Santander y Valle del Cauca</string>
+    <string name="pimentonNutrition" translatable="false">Contienen muy pocas calorías.  Son una buena fuente de fibra por lo que mejorará el tránsito intestinal y nos dará un efecto saliente.  Son una buena fuente de vitamina C y A</string>
+    <string name="pimentonQuestions" translatable="false">Es mejor consumirlos crudos? :Los pimentones se pueden comer crudos o cocidos pero si se quiere aprovechar al máximo su contenido en vitamina C es mejor consumirlos crudos y el máximo de frescos posible porqué solamente con 24 horas de almacenamiento se pierde alrededor de un 50% de esta vitamina.
+\n\nSon mejores los verdes que los rojos? se trata de un mismo tipo de pimenton. A medida que maduran los pimientos también varía su contenido nutricional, y aunque los verdes son ya muy ricos en vitaminas y una opción muy saludable, a medida que maduran duplican su contenido en vitamina C y aumentan hasta 9 veces el betacaroteno que es el precursor de la vitamina A.</string>
+
+    <string name="lechuga">Lettuce</string>
+    <string name="lechugaOrigin" translatable="false">Cundinamarca, Antioquia y Nariño</string>
+    <string name="lechugaNutrition" translatable="false">Contiene flavonoides, fundamentalmente quercetina, que tiene la propiedad de disminuir el riesgo de enfermedades cardíacas. Protege la mucosa gástrica. Ayuda a regular los niveles de azúcar en sangre. Facilita una correcta hidratación del cuerpo por su alto contenido en agua.</string>
+    <string name="lechugaQuestions" translatable="false">Cuantos tipos existen? : se dividen en cinco o seis categorías principales: manteca, lechuga china lechuga de tallo, crisphead que incluye iceberg, hojas sueltas, lechuga romana y crujiente de verano.
+\n\nComo se almacena la lechuga? Su mejor opción es lavarla antes de colocarlo en el refrigerador. Limpie toda la suciedad visible enjuagando las hojas con agua. Seque la lechuga completamente antes de guardarla en un recipiente hermético.
+\n\nComo hago para hacer crecer una lechuga en agua? Poner aproximadamente un centímetro de agua en un cuenco, meter dentro la base cortada de la lechuga y dejarlo en una ventana al sol.Añadir más agua según se va evaporando la que hay o cambiarla si vemos que se enturbia</string>
+
+    <string name="limon">Lemon</string>
+    <string name="limonOrigin" translatable="false">Santander, Cundinamarca, Boyaca, Tolima</string>
+    <string name="limonNutrition" translatable="false">Contiene potasio, lo que es muy beneficioso para nuestro sistema nervioso y nuestro cerebro. Ayuda a prevenir y a disolver las piedras que se forman en la vesícula, así como los depósitos de calcio que pueden dar lugar a la formación de piedras en el riñón.</string>
+    <string name="limonQuestions" translatable="false">Es malo aplicarse limón en la piel? Con un pH de pH 2, es muy, muy ácido para nuestra piel. Los aceites de cítricos son también fototóxicos, lo que significa que la exposición al sol puede exacerbar la irritación y producir quemaduras.
+\n\nCuantas veces se debe consumir agua con limón?  2 litros de agua con limón al día, es decir, la cantidad de agua recomendada por muchos expertos, pero esta vez con un buen chorro de zumo de limón, para que estés hidratado en todo momento.
+\n\nQue daño puede causar el limon? Los calambres abdominales y las diarreas son parte de los problemas más frecuentes derivados del exceso de jugo de limón en el cuerpo.</string>
+
+    <string name="brocoli">Broccoli</string>
+    <string name="brocoliOrigin" translatable="false">Antioquia, Boyacá, Cauca, Cundinamarca, Nariño y Norte de Santander</string>
+    <string name="brocoliNutrition" translatable="false">Tiene propiedades anticancerígenas, protege al corazón, cuida de los ojos, previene la anemia y el estreñimiento.</string>
+    <string name="brocoliQuestions" translatable="false">Que personas no deben comer brocoli? se recomienda a medida de precaución evitar un consumo habitual en crudo de estas hortalizas (col repollo, brócoli, coliflor, etc.) en personas que padecen hipotiroidismo.
+\n\nCuanto tiempo se debe cocinar el brocoli?  El tiempo de cocción  hervido es de unos 3 ó 4 minutos desde que el agua comienza a hervir. No puedes superar este tiempo ya que de esta forma perdería su sabor y todos sus nutrientes.
+\n\nQue pasa si como brocoli crudo? al comerlo crudo se triplica su cantidad de sulforafano, una sustancia que se relaciona con la prevención del cáncer, las enfermedades y la diabetes.</string>
+
+
+    <!-- eliminar -->
+    <string name="large_text">Material</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

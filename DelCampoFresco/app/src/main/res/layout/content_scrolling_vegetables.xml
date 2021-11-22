@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+    <GridLayout
+        android:columnCount="2"
+        android:rowCount="3"
+        android:alignmentMode="alignMargins"
+        android:columnOrderPreserved="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="2"
+            android:layout_rowWeight="1"
+            app:cardCornerRadius="12dp"
+            android:layout_margin="12dp">
+
+            <LinearLayout
+                android:id="@+id/aguacate"
+                android:orientation="vertical"
+                android:padding="16dp"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:src="@drawable/aguacate"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp" />
+
+                <TextView
+                    android:layout_marginTop="12dp"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="18sp"
+                    android:text="@string/aguacate"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="2"
+            android:layout_rowWeight="1"
+            app:cardCornerRadius="12dp"
+            android:layout_margin="12dp">
+
+            <LinearLayout
+                android:id="@+id/tomate"
+                android:orientation="vertical"
+                android:padding="16dp"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:src="@drawable/tomate"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp" />
+
+                <TextView
+                    android:layout_marginTop="12dp"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="18sp"
+                    android:text="@string/tomate"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="2"
+            android:layout_rowWeight="1"
+            app:cardCornerRadius="12dp"
+            android:layout_margin="12dp">
+
+            <LinearLayout
+                android:id="@+id/pimenton"
+                android:orientation="vertical"
+                android:padding="16dp"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:src="@drawable/pimenton"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp" />
+
+                <TextView
+                    android:layout_marginTop="12dp"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="18sp"
+                    android:text="@string/pimenton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="2"
+            android:layout_rowWeight="1"
+            app:cardCornerRadius="12dp"
+            android:layout_margin="12dp">
+
+            <LinearLayout
+                android:id="@+id/lechuga"
+                android:orientation="vertical"
+                android:padding="16dp"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:src="@drawable/lechuga"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp" />
+
+                <TextView
+                    android:layout_marginTop="12dp"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="18sp"
+                    android:text="@string/lechuga"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="2"
+            android:layout_rowWeight="1"
+            app:cardCornerRadius="12dp"
+            android:layout_margin="12dp">
+
+            <LinearLayout
+                android:id="@+id/limon"
+                android:orientation="vertical"
+                android:padding="16dp"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:src="@drawable/limones"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp" />
+
+                <TextView
+                    android:layout_marginTop="12dp"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="18sp"
+                    android:text="@string/limon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="2"
+            android:layout_rowWeight="1"
+            app:cardCornerRadius="12dp"
+            android:layout_margin="12dp">
+
+            <LinearLayout
+                android:id="@+id/brocoli"
+                android:orientation="vertical"
+                android:padding="16dp"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:src="@drawable/brocoli"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp" />
+
+                <TextView
+                    android:layout_marginTop="12dp"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="18sp"
+                    android:text="@string/brocoli"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+    </GridLayout>
+
+</androidx.core.widget.NestedScrollView>
